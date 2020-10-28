@@ -37,7 +37,9 @@
 [submodule "src/llvm-project"]
 	path = src/llvm-project
 	url = https://github.com/rust-lang/llvm-project.git
-	branch = rustc/10.0-2020-05-05
+	branch = symcc-10.0
 [submodule "src/doc/embedded-book"]
 	path = src/doc/embedded-book
 	url = https://github.com/rust-embedded/book.git
+[submodule "https://github.com/unseddd/llvm-project.git"]
+	url = src/llvm-project
